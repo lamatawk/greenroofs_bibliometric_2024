@@ -1,8 +1,8 @@
 # greenroofs_bibliometric_2024
-Recent trends in green roof biodiversity research: a five-year bibliometric review - RAW DATA
+Recent trends in green roof biodiversity research: a five-year bibliometric review - RAW DATASETS
 
 **Data Source**
-Web of Science (WoS) - Green Roofs Dataset
+Web of Science (WoS) 
 
 **Data Reuse Plan**
 This document provides metadata for the project dataset derived from textual and bibliometric analyses of green roof research. 
